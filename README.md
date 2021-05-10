@@ -35,3 +35,7 @@
 9. Snake_Game<br>
     * pygame을 이용하여 게임을 만든다.
     * 벽에 부딪히면 Game over!를 출력하고 target의 좌표와 일치하면 뱀의 길이가 길어진다.
+
+10. Pong_Game<br>
+    * Player A: w s 키 사용
+    * Player B: Up Down 키 사용
