@@ -28,3 +28,10 @@
 7. CGV Crawling<br>
     * bs4를 이용하여 CGV에서 해당 날짜에 상영하는 영화 제목을 크롤링하여 화면에 표시한다.
     * imax 영화 예매 오픈 여부, 예매 오픈된 imax 영화 제목을 크롤링하여 화면에 표시한다.
+
+8. Chat_Room<br>
+    * server와 client를 각각 구현한다.
+
+9. Snake_Game<br>
+    * pygame을 이용하여 게임을 만든다.
+    * 벽에 부딪히면 Game over!를 출력하고 target의 좌표와 일치하면 뱀의 길이가 길어진다.
